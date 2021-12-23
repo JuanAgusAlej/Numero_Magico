@@ -1,0 +1,19 @@
+body {
+  background-color: bisque;
+}
+.card-tareas {
+  margin-top: 50px;
+  align-items: center;
+}
+.container {
+  background-color:bisque;
+  /* margin-top: 150pt; */
+  height:100vh;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.numeroMagico {
+    width: 400px;
+}
